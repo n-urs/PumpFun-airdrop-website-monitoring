@@ -1,0 +1,5 @@
+aiohttp
+dnspython
+certstream
+playsound==1.2.2
+certifi
